@@ -42,15 +42,16 @@ body {
 
 @media (max-width:700px) {
     .app {
-        width: 70%;
+        width: 80%;
         margin: 10px auto;
     }
     .app h1 {
-        font-size: 45px;
+        font-size: 50px;
         font-weight: 600;
+        margin-top: 15px;
     }
     .app p {
-        font-size: 25px;
+        font-size: 30px;
     }
     a {
         margin: 50% 20%;
