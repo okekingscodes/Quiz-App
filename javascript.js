@@ -29,7 +29,7 @@ const questions = [
     {
         question: "To insert image in a webpage, we use...?",
         answers: [
-            { text: "img tage", correct: true},
+            { text: "img tag", correct: true},
             { text: "url() tag", correct: false},
             { text: "src tag", correct: false},
             { text: "photo tag", correct: false},
